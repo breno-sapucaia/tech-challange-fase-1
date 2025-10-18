@@ -1,0 +1,21 @@
+# Arquivos gerados automaticamente
+*.pyc
+__pycache__/
+*.log
+*.pkl
+*.joblib
+
+# Ambiente virtual
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
