@@ -89,3 +89,15 @@ tech_challange_fase_1/
 ├── README.md                    # Este arquivo
 └── Tech Challenge IADT - Fase 1.pdf  # Documentação
 ```
+
+---
+# Continuidade da fase 2
+Análise dos modelos para otimização
+
+Performance atual (com SMOTE):
+- XGBoost: AUC = 1.00, Acurácia = 98.4% — quase perfeito
+- Decision Tree: Acurácia = 96.7% — espaço para melhoria
+- KNN: Acurácia = 95.9% — espaço para melhoria
+Recomendação: Decision Tree
+
+objetivo é melhorar o decision tree que possui um espaço de melhoria, pequeno, mas possui.
